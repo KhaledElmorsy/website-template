@@ -42,8 +42,9 @@ body {
 
 .Hero .Main {
     justify-content: center;
+    align-items: center;
     gap: 150px;
-    padding: 100px;
+    padding: 70px;
 }
 
 .Hero .Body {
