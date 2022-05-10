@@ -94,10 +94,13 @@ body {
 }
 
 .Information {
-    padding-top: 40px;
+    Padding: 70px;
+}
+
+.Information-Container {
     flex-direction: column;
     align-items: center;
-    margin-bottom: 30px;
+    gap: 20px;
 }
 
 .Information .Title{
