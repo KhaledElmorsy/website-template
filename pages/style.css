@@ -185,3 +185,12 @@ body {
 .CTA-Container .Quiet {
     font-size: 80%;
 }
+
+.Footer {
+    padding:22px;
+    font-size: 22px;
+    background-color: #26343a;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
