@@ -96,6 +96,7 @@ body {
 }
 
 .Information {
+    justify-content: center;
     Padding: 70px;
 }
 
